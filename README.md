@@ -4,8 +4,12 @@ Great to see you here!
 
 <br />
  
-### <div align="center">I'm Thinh Nguyen, a junior frontend and backend web developer.</div>
-My long-term goal is to work in the field of software engineering, specifically in front-end and back-end technologies.
+### <div align="center">I'm Thinh Nguyen, a mobile developer specialising in React Native & TypeScript.</div>
+I build scalable, maintainable, and production-ready applications with a strong focus on architecture, performance, and user experience.
+
+Tech stack: React Native • TypeScript • Redux • JavaScript
+
+Currently exploring better engineering practices and building mobile applications like a senior engineer.
 
 <br/>
 
